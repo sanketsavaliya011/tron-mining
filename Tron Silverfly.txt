@@ -1,0 +1,41 @@
+{
+  "adstatus":true,
+  "specificad":"Admob",
+  "alternatead":true,
+  "alternate_data":{
+    "Appopen":"Admob",
+    "Interstrial":"Facebook",
+    "Native":"Admob",
+    "Banner":"Facebook"
+  },
+  "EvenoddAd":true,
+  "evenodd_data":{
+    "EvenAd":"Admob",
+    "OddAD":"Facebook"
+  },
+  "Admob":{
+    "Admob_adstatus":true,
+    "Admob_Appopen":"",
+    "Admob_Interstrial":"",
+    "Admob_Native":"",
+    "Admob_Banner":""
+  },
+  "Facebook":{
+    "FB_adstatus":true,
+    "FB_Interstrial":"",
+    "FB_Native":"",
+    "FB_Banner":""
+  },
+  "Applovin":{
+    "Applovin_adstatus":true,
+    "Applovin_Interstrial":"",
+    "Applovin_Native":"",
+    "Applovin_Banner":""
+  },
+  "BackAd":true,
+  "BackAdPlatform":"Admob",
+  "onResumeOpenAd":true,
+  "SplashAdType":"Appopen",
+  "ExtraScreen": "",
+  "PrivacyPolicy":"",
+}
