@@ -1,41 +1,44 @@
 {
-  "adstatus":true,
-  "specificad":"Admob",
-  "alternatead":true,
-  "alternate_data":{
-    "Appopen":"Admob",
-    "Interstrial":"Facebook",
-    "Native":"Admob",
-    "Banner":"Facebook"
-  },
-  "EvenoddAd":true,
-  "evenodd_data":{
-    "EvenAd":"Admob",
-    "OddAD":"Facebook"
-  },
-  "Admob":{
-    "Admob_adstatus":true,
-    "Admob_Appopen":"",
-    "Admob_Interstrial":"",
-    "Admob_Native":"",
-    "Admob_Banner":""
-  },
-  "Facebook":{
-    "FB_adstatus":true,
-    "FB_Interstrial":"",
-    "FB_Native":"",
-    "FB_Banner":""
-  },
-  "Applovin":{
-    "Applovin_adstatus":true,
-    "Applovin_Interstrial":"",
-    "Applovin_Native":"",
-    "Applovin_Banner":""
-  },
-  "BackAd":true,
-  "BackAdPlatform":"Admob",
-  "onResumeOpenAd":true,
-  "SplashAdType":"Appopen",
-  "ExtraScreen": "",
-  "PrivacyPolicy":"",
+	"adstatus": false,
+	"specificad": true,
+	"alternatead": false,
+	"alternate_data": {
+		"Appopen": "Admob",
+		"Interstrial": "Facebook",
+		"Native": "Facebook",
+		"Banner": "Admob"
+	},
+	"Admob": {
+		"Admob_adstatus": true,
+		"Admob_Appopen": "ca-app-pub-3940256099942544/3419835294",
+		"Admob_Interstrial": "ca-app-pub-3940256099942544/1033173712",
+		"Admob_Native": "ca-app-pub-3940256099942544/2247696110",
+		"Admob_Banner": "ca-app-pub-3940256099942544/6300978111"
+	},
+	"Facebook": {
+		"FB_adstatus": false,
+		"FB_Interstrial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"FB_Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"FB_Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+	},
+	"Applovin": {
+		"Applovin_adstatus": false,
+		"Applovin_Interstrial": "",
+		"Applovin_Native": "",
+		"Applovin_Banner": ""
+	},
+	"AdCounter": {
+		"Inter_count": 0,
+		"Native_Count": 0,
+		"Banner_Count": 0,
+		"Back_Inter_count":0,
+		"onResumeOpenAd": true
+	},
+	"NativeBlink": true,
+	"NativeBanner": true,
+	"AdDialog": true,
+	"BackAd": true,
+	"BackAdPlatform": "Facebook",
+	"ExtraScreen": "0",
+	"PrivacyPolicy": ""
 }
