@@ -39,6 +39,6 @@
 	"AdDialog": true,
 	"BackAd": false,
 	"BackAdPlatform": "Facebook",
-	"ExtraScreen": "0",
+	"ExtraScreen": "3",
 	"PrivacyPolicy": ""
 }
