@@ -1,5 +1,5 @@
 {
-	"adstatus": false,
+	"adstatus": true,
 	"specificad": true,
 	"alternatead": false,
 	"alternate_data": {
@@ -10,10 +10,10 @@
 	},
 	"Admob": {
 		"Admob_adstatus": true,
-		"Admob_Appopen": "ca-app-pub-3940256099942544/3419835294",
-		"Admob_Interstrial": "ca-app-pub-3940256099942544/1033173712",
-		"Admob_Native": "ca-app-pub-3940256099942544/2247696110",
-		"Admob_Banner": "ca-app-pub-3940256099942544/6300978111"
+		"Admob_Appopen": "/22686075355/com.tron.tron_s.openapp",
+		"Admob_Interstrial": "/22686075355/com.tron.tron_s.interstitial",
+		"Admob_Native": "/22686075355/com.tron.tron_s.native",
+		"Admob_Banner": "/22686075355/com.tron.tron_s.banner"
 	},
 	"Facebook": {
 		"FB_adstatus": false,
