@@ -10,10 +10,10 @@
 	},
 	"Admob": {
 		"Admob_adstatus": true,
-		"Admob_Appopen": "/22671174037/tron_appopen",
-		"Admob_Interstrial": "/22671174037/tron_interstital",
-		"Admob_Native": "/22671174037/tron_native",
-		"Admob_Banner": "/22671174037/tron_banner"
+		"Admob_Appopen": "/150790500,22477667340/27201_APP_OPEN",
+		"Admob_Interstrial": "/150790500,22477667340/27201_APP_INTER",
+		"Admob_Native": "/150790500,22477667340/27201_APP_NATIVE",
+		"Admob_Banner": "/150790500,22477667340/27201_APP_BANNER_300x250"
 	},
 	"Facebook": {
 		"FB_adstatus": false,
